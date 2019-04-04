@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/NorthwindNestedFields/Default.aspx) (VB: [Default.aspx.vb](./VB/NorthwindNestedFields/Default.aspx.vb))
+* [Default.aspx](./CS/NorthwindNestedFields/Default.aspx) (VB: [Default.aspx](./VB/NorthwindNestedFields/Default.aspx))
 * [Default.aspx.cs](./CS/NorthwindNestedFields/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/NorthwindNestedFields/Default.aspx.vb))
 <!-- default file list end -->
 # How to lookup a parent table's values in grid cells in Server mode
